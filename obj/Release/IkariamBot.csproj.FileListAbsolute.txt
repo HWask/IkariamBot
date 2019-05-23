@@ -1,0 +1,8 @@
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\bin\Release\IkariamBot.exe.config
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\bin\Release\IkariamBot.exe
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\bin\Release\CodeScales.Http.dll
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\obj\Release\IkariamBot.csprojResolveAssemblyReference.cache
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\obj\Release\IkariamBot.Form1.resources
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\obj\Release\IkariamBot.Properties.Resources.resources
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\obj\Release\IkariamBot.csproj.GenerateResource.Cache
+C:\Users\str8\documents\visual studio 2013\Projects\IkariamBot\IkariamBot\obj\Release\IkariamBot.exe
